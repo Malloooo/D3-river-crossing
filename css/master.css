@@ -1,0 +1,30 @@
+.view {
+  display: flex;
+  justify-content: space-between;
+}
+
+.couple {
+  display: flex;
+}
+
+.person {
+  border : 1px solid red;
+  max-width: 120px;
+  min-width: 120px;
+  min-height: 120px;
+}
+
+.person img {
+  width: 80%;
+}
+
+
+.choices {
+  background: #efefef;
+  display: flex;
+  justify-content: space-around;
+}
+
+.choice a {
+    display: flex;
+}

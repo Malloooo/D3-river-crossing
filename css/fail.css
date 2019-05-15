@@ -12,7 +12,6 @@
  min-height: 80vh;
  background: url('images/background.jpg') bottom center no-repeat;
  background-size: cover;
-
 }
 
 .view.activated {
@@ -68,15 +67,8 @@
   color: black;
   padding : 12px;
   border-radius: 5px 5px 5px 5px;
- background-color: #e61c1c
+  background-color: #e61c1c
   -webkit-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.39);
   -moz-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.39);
   box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.39);
-}
-main.de-empasized{
-filter:contrast(.3)
-filter:blur(5px);
-}
-img.background {
-
 }
